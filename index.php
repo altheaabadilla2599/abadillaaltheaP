@@ -68,8 +68,7 @@
 
 
 
-<div class="footer">   Lorem Ipsum Lorem Ipsum Lorem Ipsum <br> Lorem Ipsum Lorem Ipsum Lorem Ipsum <br>  Lorem Ipsum Lorem Ipsum Lorem Ipsum
- <br>Lorem Ipsum Lorem Ipsum Lorem Ipsum
+<div class="footer">   
  
  <div class="scoop1"></div>
 <div class="scoop2"></div>
@@ -79,7 +78,7 @@
 
 
 
-<div class="footer1">© Copyright 2019 |  All rights Reserved Creamy Creations </div>
+<div class="footer1">© Copyright 2020 |  All rights Reserved Creamy Creations </div>
 
 
 
